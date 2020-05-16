@@ -3,7 +3,7 @@ tmpImgFolder: images/temps/
 staticImgFolder: images/
 
 app:
-  port: 80
+  port: 5000
 
 sizes:
   - 120x90
