@@ -1,0 +1,17 @@
+# tính từ folder public
+tmpImgFolder: images/temps/
+staticImgFolder: images/
+
+app:
+  port: 5000 
+
+sizes:
+  - 120x90
+  - 255x180 
+  - 640x430
+  - 530x424
+  - 1500x1200
+
+tempSize:
+  width: 164
+  height: 170
